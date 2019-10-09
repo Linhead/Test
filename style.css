@@ -35,7 +35,7 @@ h3 {font-size:15px; padding: 0px; margin: 0px 0px 5px 0px; color: #acaeb0; font-
 .main-cont {
 	width:1020px; 
 	margin:0 auto; 
-	min-height:100%; 
+	max-height:100%; 
 	background: url("images/bg.png") repeat scroll 0 0 transparent; 
 	position:relative;
 	z-index:10;
